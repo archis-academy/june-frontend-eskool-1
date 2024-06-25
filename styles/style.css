@@ -5,7 +5,7 @@
 }
 .header {
   width: 100%;
-  /* height: 355px; */
+  height: 355px;
   background-color: #eaeaea;
 }
 .header-container {
@@ -74,4 +74,20 @@
 .container-child-2 {
   width: 284px;
   border: 1.5px solid #282828;
+}
+
+/* MAİN CARDS */
+
+.main {
+  width: 100%;
+  height: calc(100vh - 355px);
+  border: 1px solid red;
+}
+
+.main-container {
+  display: flex;
+}
+
+.cards {
+  display: flex;
 }
