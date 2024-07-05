@@ -3,3 +3,35 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.wwd-img-content{
+  background-image: url("../images/kiz.png");
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  min-height: 818px;
+  background-repeat: no-repeat;
+}
+.wwd-section-container{
+  display: flex;
+  background-color: #EAEAEA;
+}
+.wwd-banner{
+  background-color:  #FE6839;
+  ;
+}
+.wwd-image-box{
+  max-width: 560;
+  width: 100%;
+}
+.wwd-content-box{
+  display: flex; 
+  margin: 120px;
+}
+.wwd-tittle{
+  display: flex;
+  
+}
+.wwd{
+  margin-left: 10px;
+}
